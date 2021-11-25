@@ -3,8 +3,8 @@ title: Home
 sections:
   - type: hero_section
     title: >-
-      We sometimes write things. You should read it, it might shed some light on
-      why we're doing what we're doing
+      We shouldn't need to choose a platform based whether we identify as
+      developers, designers or marketers
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
